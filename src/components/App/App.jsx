@@ -9,7 +9,7 @@ const favBooks = [
 export default function App() {
   return (
     <>
-	  <h1>Books of the week</h1>
+	  <h1>Books of the week!!</h1>
       <BookList books={favBooks} />
     </>
   );
